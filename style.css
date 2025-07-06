@@ -1384,4 +1384,9 @@ footer a {
     .contact-right p {
         font-size: 1.3em;
     }
+
+    .about-info a {
+        transform: translateX(-35%);
+       
+    }
 }
