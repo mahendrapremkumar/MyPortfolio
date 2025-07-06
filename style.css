@@ -1385,8 +1385,10 @@ footer a {
         font-size: 1.3em;
     }
 
-    .about-info a {
-        transform: translateX(-55%);
-       
-    }
+   .about-info a {
+    display: block;   
+    margin: 25 70;   
+    padding: 17px 17px;
+    text-align: center;
+   }
 }
