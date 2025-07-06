@@ -1389,10 +1389,21 @@ footer a {
     /*display: block;   
     margin: 25 40;   
     padding: 17px 17px;
-    text-align: center;*/
+    text-align: center;
                display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: center;*/
+       .about-info {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.about-info a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
    }
 
     
